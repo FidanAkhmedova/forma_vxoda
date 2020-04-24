@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\sortBinary\bin\Debug\sortBinary.exe.config
+C:\Users\Acer\source\repos\sortBinary\bin\Debug\sortBinary.exe
+C:\Users\Acer\source\repos\sortBinary\bin\Debug\sortBinary.pdb
+C:\Users\Acer\source\repos\sortBinary\obj\Debug\sortBinary.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\sortBinary\obj\Debug\sortBinary.exe
+C:\Users\Acer\source\repos\sortBinary\obj\Debug\sortBinary.pdb
